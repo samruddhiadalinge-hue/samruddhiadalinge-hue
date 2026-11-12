@@ -1,14 +1,12 @@
 # Hi there, I'm Samruddhi Adalinge! 👋
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Third-Year+B.Tech+Computer+Engineering+Student;Aspiring+Software+Engineer;Full-Stack+Development+Enthusiast;Building+Projects+and+Learning+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Third-Year+B.Tech+Computer+Engineering+Student;Aspiring+Software+Engineer;Full-Stack+Development+Enthusiast;Building+Projects+and+Learning+Every+Day)!" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Third-Year+B.Tech+Computer+Engineering+Student;Aspiring+Software+Engineer;Full-Stack+Development+Enthusiast;Building+Projects+and+Learning+Every+Day!" />
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/samruddhiadalinge-hue](https://github.com/samruddhiadalinge-hue)">
-&#x20;   \<img src="[https://komarev.com/ghpvc/?username=samruddhiadalinge-hue&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=samruddhiadalinge-hue\&color=blueviolet\&style=flat)" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samruddhiadalinge-hue&color=blueviolet&style=flat" />
+</p>
 
 ## 👩‍💻 About Me
 
