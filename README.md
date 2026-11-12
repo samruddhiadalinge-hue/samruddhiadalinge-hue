@@ -25,21 +25,15 @@ I'm passionate about software development, problem-solving, and building practic
 
 **Programming Languages & Frontend**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=cpp,js,html,css](https://skillicons.dev/icons?i=cpp,js,html,css)" />
-\</p>
+![Skills](https://skillicons.dev/icons?i=cpp,js,html,css)
 
 **Backend & Databases**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)" />
-\</p>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
 
 **Tools & Technologies**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,solidity](https://skillicons.dev/icons?i=git,github,vscode,solidity)" />
-\</p>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,solidity)
 
 ## 🚀 Featured Projects
 
@@ -96,28 +90,19 @@ I'm actively looking for **Software Engineering and Full-Stack Development Inter
 
 ## 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=samruddhiadalinge-hue&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=samruddhiadalinge-hue\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhiadalinge-hue&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhiadalinge-hue\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-\</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samruddhiadalinge-hue&show_icons=true&theme=tokyonight&hide_border=true)
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=samruddhiadalinge-hue&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=samruddhiadalinge-hue\&theme=tokyonight\&hide_border=true)" />
-\</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhiadalinge-hue&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=samruddhiadalinge-hue&theme=tokyonight&hide_border=true)
 
 ## 🤝 Connect With Me
 
-\<p align="left">
-&#x20; \<a href="[https://www.linkedin.com/in/samruddhi-adalinge-372484333/](https://www.linkedin.com/in/samruddhi-adalinge-372484333/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" width="40" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/samruddhiadalinge-hue](https://github.com/samruddhiadalinge-hue)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" width="40" />
-&#x20; \</a>
-&#x20; \<a href="[https://leetcode.com/u/samu_61223/](https://leetcode.com/u/samu_61223/)">
-&#x20;   \<img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg)" width="40" />
-&#x20; \</a>
-\</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samruddhi-adalinge-372484333/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/samruddhiadalinge-hue)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/samu_61223/)
 
 ---
 
