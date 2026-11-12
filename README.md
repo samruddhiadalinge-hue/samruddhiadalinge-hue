@@ -90,11 +90,9 @@ I'm actively looking for **Software Engineering and Full-Stack Development Inter
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samruddhiadalinge-hue&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhiadalinge-hue&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=samruddhiadalinge-hue&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samruddhiadalinge-hue&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🤝 Connect With Me
 
@@ -106,6 +104,8 @@ I'm actively looking for **Software Engineering and Full-Stack Development Inter
 
 ---
 
-\<p align="center">
-&#x20; \<b>✨ Learning. Building. Improving. Growing. ✨\</b>
-\</p>
+---
+
+<p align="center">
+  <b>✨ Learning. Building. Improving. Growing. ✨</b>
+</p>
