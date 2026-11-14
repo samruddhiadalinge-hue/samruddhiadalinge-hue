@@ -88,6 +88,14 @@ I'm actively looking for **Software Engineering and Full-Stack Development Inter
 - Collaborate with development teams.
 - Contribute to meaningful projects.
 
+## 🏆 LeetCode Statistics
+
+<p align="center">
+  <a href="https://leetcode.com/u/samu_61223/">
+    <img src="https://leetcard.jacoblin.cool/samu_61223?theme=dark&font=Baloo&ext=heatmap" />
+  </a>
+</p>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
